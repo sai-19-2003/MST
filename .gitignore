@@ -1,0 +1,12 @@
+# Ignore MongoDB logs & database files
+EMS-backend/journal/*
+EMS-backend/storage.bson
+EMS-backend/sizeStorer.wt
+
+# Ignore node_modules
+EMS-backend/node_modules/
+
+# Ignore Flutter build files
+ems_frontend/build/
+ems_frontend/.dart_tool/
+ 
